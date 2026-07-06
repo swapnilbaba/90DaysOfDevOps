@@ -2,7 +2,6 @@
 
 ## Profile & Objective
 * **Current Level:** Application Support Specialist (Linux Administration, WAS, Databases)
-* **Current CTC / Target:** 14.7 LPA | Targeting high-impact DevOps/SRE roles (20+ LPA)
 * **Objective:** Modernize traditional application support and middleware expertise (WebLogic/JBoss/Tomcat) into cloud-native automation, Infrastructure as Code, CI/CD, and container orchestration.
 
 ---
